@@ -1,0 +1,6 @@
+__pycache__/*
+encodings
+data
+pruned_model_statedict.pth
+quantized_model_statedict.pth
+.ipynb_checkpoints/*
